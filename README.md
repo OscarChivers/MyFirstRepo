@@ -1,5 +1,4 @@
-"# MyFirstRepo" 
-"# MyFirstRepo" 
-"# MyFirstRepo" 
-"# MyFirstRepo" 
-"# MyFirstRepo" 
+# My first repo
+# Practicing the pull command 
+
+this is my initial edition from GitHub
