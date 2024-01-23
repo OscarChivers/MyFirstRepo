@@ -1,4 +1,4 @@
 # My first repo
 # Practicing the pull command 
 
-this is my initial edition from GitHub
+this is my initial edition from GITHUB
